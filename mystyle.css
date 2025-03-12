@@ -1,3 +1,17 @@
 body {
-    background-color: aqua;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(0,255,204,1) 100%);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: auto 200px;
+}
+
+h1 {
+    border:5px solid #00ccff; /*red, green, blue*/
+}
+
+p {
+    border: 4px dashed black;
+    border-style: dashed dotted;
 }
