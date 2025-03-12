@@ -9,9 +9,14 @@ body {
 
 h1 {
     border:5px solid #00ccff; /*red, green, blue*/
+    margin-right: 620px;
 }
 
 p {
     border: 4px dashed black;
-    border-style: dashed dotted;
+    border-style: dashed dotted; /* fed effect */
+    border-left: 8px solid black;
+    border-radius: 8px;
+    margin-right: 850px;
+    padding-left: 8px;
 }
