@@ -1,3 +1,18 @@
-h1 {
-    color: blue;
+div.Tutbox {
+    border: 2px solid gray;
+    width: 24%;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.title {
+    margin-left: 40%;
+    font-size: 60px;
+}
+
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(0,255,158,1) 100%);
+    background-repeat: no-repeat;
 }
