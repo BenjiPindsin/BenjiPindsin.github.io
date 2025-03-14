@@ -16,7 +16,7 @@
     text-align: center;
     font-size: 200px;
     color: white;
-    text-shadow: 5px 5px black
+    text-shadow: 5px 5px 5px black;
 }
 
 body {
@@ -37,4 +37,9 @@ table, th, td {
     border: 2px solid gray;
     border-radius: 20px;
     color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+h0 {
+    font-size: 50px;
 }
