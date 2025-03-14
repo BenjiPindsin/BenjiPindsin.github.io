@@ -7,9 +7,9 @@
 
 .Under {
     text-align: center;
-    font-size: 80px;
+    font-size: 100px;
     color: #FFFFFF;
-    text-shadow: 2px 2px black;
+    text-shadow: 4px 4px 5px black;
     position: relative;
     top: -160px;
 }
@@ -38,8 +38,12 @@ table, th, td {
 
 th {
     font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 4px 4px black;
 }
 
 td {
-    font-size: 40px;
+    font-size: 60px;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
