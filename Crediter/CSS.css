@@ -10,6 +10,8 @@
     font-size: 80px;
     color: #FFFFFF;
     text-shadow: 2px 2px black;
+    position: relative;
+    top: -160px;
 }
 
 body {
@@ -24,4 +26,20 @@ body {
     left: 0px;
     bottom: 50%;
     z-index: -1;
+}
+
+table, th, td {
+    border: 2px solid gray;
+    border-radius: 20px;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+th {
+    font-size: 80px;
+}
+
+td {
+    font-size: 40px;
 }
